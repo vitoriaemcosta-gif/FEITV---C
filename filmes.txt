@@ -1,0 +1,6 @@
+Enrolados;Animacao/Musical;1h 40min;Rapunzel e Flynn Rider fogem da torre em uma aventura.;7;3
+A Princesa e o Sapo;Animacao/Musical;1h 37min;Tiana vira sapo e precisa desfazer o feitico do principe.;1;0
+Toy Story 1;Animacao/Aventura;1h 21min;Woody tenta lidar com a chegada do moderno Buzz Lightyear.;0;0
+Toy Story 2;Animacao/Aventura;1h 32min;Os brinquedos tentam resgatar Woody de um colecionador.;0;0
+Toy Story 3;Animacao/Aventura;1h 43min;Os brinquedos sao doados e precisam fugir de uma creche.;0;0
+Toy Story 4;Animacao/Aventura;1h 40min;Woody tenta resgatar Garfinho e reencontra uma velha amiga.;0;0
